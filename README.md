@@ -31,7 +31,7 @@ The democratization of the cosmos will not be achieved by building a better rock
 
 ## How to Use the Interactive Application
 To view the interactive data and use the Travel Simulator:
-Click the [Space_Travel_Research](https://samuelson777.github.io/Achieving-Freedom-of-Movement-in-the-Cosmos-A-Multidisciplinary-Analysis-of-Deep-Space-Transit/) to open it in any modern web browser (Chrome, Firefox, Safari, Edge). No local server or build process is required.
+- Click the [Space_Travel_Research](https://samuelson777.github.io/Achieving-Freedom-of-Movement-in-the-Cosmos-A-Multidisciplinary-Analysis-of-Deep-Space-Transit/) to open it in any modern web browser (Chrome, Firefox, Safari, Edge). No local server or build process is required.
 
 ## Citation
 If you use this research or the interactive models in your own work, please cite it as follows:
